@@ -10,6 +10,7 @@ namespace c0716342
     {
         static void Main(string[] args)
         {
+            //
         }
     }
 }
